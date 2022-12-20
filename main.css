@@ -1,0 +1,61 @@
+body {
+	background-image: url('1642653952_4-phonoteka-org-p-fon-restoran-4.jpg');
+	max-width: 860px;
+	margin: 0 auto; 
+}
+div {
+	padding: 5px 15px;
+}
+h4 {
+	text-align: center;
+}
+.header {
+	-webkit-box-shadow: 0 0 10px #a52a2a;
+	box-shadow: 0 0 10px #ea3939;
+	border-radius: 10px 10px 0 0;
+	margin-top: 20px;
+	background: #00ad21;
+	background-image: url('1437407.jpg');
+	min-height: 200px;
+	line-height: 200px;
+	text-align: center;
+	margin-bottom: 10px;
+	-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.71);
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.71);
+}
+.sidebar {
+	background: #dad86f;
+
+	min-height: 200px;
+	float: left;
+	margin-right: 10px;
+	max-width: 200px;
+	min-width: 150px;
+}
+.sidebar1 {
+	background: #dad86f;
+
+	float: right;
+	margin-left: 10px;
+	max-width: 200px;
+}
+.container {
+	background: #dad86f;
+
+	margin-bottom: 10px;
+	-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.71);
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.71);
+}
+.footer {
+	font-weight: bold;
+	color: #fff;
+	background: #505050;
+	min-height: 30px;
+	line-height: 30px;
+	border-radius: 0 0 10px 10px;
+	-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.71);
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.71);
+}
+clearfix {
+	clear: both;
+}
